@@ -6,4 +6,7 @@ TODO:
     -> Informace - misto, cas
     -> Informace - dary, dresscode
     -> Informace - ubytovani, cestovani
+    -> Informace - program
   -> Uvodni vtipna hra ?
+    -> Hledej, nebo nejak vyhraj >> web
+    -> Tic Tac Toe (6 * 6)
